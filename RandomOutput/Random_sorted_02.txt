@@ -1,0 +1,12 @@
+Sorted container:
+Container contains 10 elements.
+0: It is Tree: age = 2095531993. Name = sDJsQORGjl. Task result: 0.100000
+1: It is Flower: type = WILD. Name = WJJWKYBgWK. Task result: 0.100000
+2: It is Shrub: flowering month = DECEMBER. Name = nbqLOYtJpF. Task result: 0.200000
+3: It is Tree: age = 632823626. Name = naQKkGIJDx. Task result: 0.200000
+4: It is Tree: age = 22559237. Name = JcYOQsZbpx. Task result: 0.200000
+5: It is Tree: age = 2102673772. Name = syCXfqyqki. Task result: 0.300000
+6: It is Tree: age = 84097966. Name = TaVOKUStVg. Task result: 0.300000
+7: It is Flower: type = WILD. Name = GrCfEvlGUe. Task result: 0.300000
+8: It is Tree: age = 783653839. Name = AMDVREwUAB. Task result: 0.400000
+9: It is Tree: age = 854728970. Name = EeFToSvebq. Task result: 0.400000

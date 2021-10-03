@@ -1,0 +1,3 @@
+/Users/xfiniks/CLionProjects/Task_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xfiniks/CLionProjects/Task_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xfiniks/CLionProjects/Task_1/cmake-build-debug/CMakeFiles/Arc_Chernykh.dir

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xfiniks/CLionProjects/Task_1/flower.h
+stdio.h
+-
+
+/Users/xfiniks/CLionProjects/Task_1/plant.c
+plant.h
+/Users/xfiniks/CLionProjects/Task_1/plant.h
+rnd.h
+/Users/xfiniks/CLionProjects/Task_1/rnd.h
+stdlib.h
+-
+string.h
+-
+
+/Users/xfiniks/CLionProjects/Task_1/plant.h
+stdio.h
+-
+flower.h
+/Users/xfiniks/CLionProjects/Task_1/flower.h
+shrub.h
+/Users/xfiniks/CLionProjects/Task_1/shrub.h
+tree.h
+/Users/xfiniks/CLionProjects/Task_1/tree.h
+
+/Users/xfiniks/CLionProjects/Task_1/rnd.h
+stdlib.h
+-
+
+/Users/xfiniks/CLionProjects/Task_1/shrub.h
+stdio.h
+-
+
+/Users/xfiniks/CLionProjects/Task_1/tree.h
+stdio.h
+-
+stdbool.h
+-
+
